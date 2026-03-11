@@ -73,7 +73,7 @@ GrandsonSound — это веб-приложение для прослушива
 
 ## 🤝 Вклад в проект
 
-Мы придерживаемся GitFlow. Пожалуйста, ознакомьтесь с [gitflow.md](gitflow.md) и [prstrategy.md](prstrategy.md) перед созданием Pull Request.
+Мы придерживаемся GitFlow. Пожалуйста, ознакомьтесь с gitflow.md и prstrategy.md перед созданием Pull Request.
 
 Если у вас есть идеи по улучшению или вы нашли баг, создайте Issue или отправьте Pull Request. Мы открыты к сотрудничеству!
 
@@ -86,3 +86,4 @@ GrandsonSound — это веб-приложение для прослушива
 ---
 
 GrandsonSound — слушай музыку по-своему. 🎧
+
